@@ -1,0 +1,12 @@
+schema_version = "1.0.0"
+
+id = "sphere_imposter_baker"
+version = "1.0.0"
+name = "Sphere Imposter Baker"
+tagline = "Render objects from many camera angles into sprite sheets with custom layer counts"
+maintainer = "Andrei"
+type = "add-on"
+tags = ["Render", "3D View"]
+blender_version_min = "4.2.0"
+license = ["SPDX:GPL-3.0-or-later"]
+copyright = ["2026 Andrei"]
